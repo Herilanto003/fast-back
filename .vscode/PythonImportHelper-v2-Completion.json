@@ -1,0 +1,2001 @@
+[
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "sessionmaker",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "relationship",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Bookings",
+        "importPath": "services.models",
+        "description": "services.models",
+        "isExtraImport": true,
+        "detail": "services.models",
+        "documentation": {}
+    },
+    {
+        "label": "Rooms",
+        "importPath": "services.models",
+        "description": "services.models",
+        "isExtraImport": true,
+        "detail": "services.models",
+        "documentation": {}
+    },
+    {
+        "label": "Customers",
+        "importPath": "services.models",
+        "description": "services.models",
+        "isExtraImport": true,
+        "detail": "services.models",
+        "documentation": {}
+    },
+    {
+        "label": "Customers",
+        "importPath": "services.models",
+        "description": "services.models",
+        "isExtraImport": true,
+        "detail": "services.models",
+        "documentation": {}
+    },
+    {
+        "label": "Bookings",
+        "importPath": "services.models",
+        "description": "services.models",
+        "isExtraImport": true,
+        "detail": "services.models",
+        "documentation": {}
+    },
+    {
+        "label": "Rooms",
+        "importPath": "services.models",
+        "description": "services.models",
+        "isExtraImport": true,
+        "detail": "services.models",
+        "documentation": {}
+    },
+    {
+        "label": "Bookings",
+        "importPath": "services.models",
+        "description": "services.models",
+        "isExtraImport": true,
+        "detail": "services.models",
+        "documentation": {}
+    },
+    {
+        "label": "Users",
+        "importPath": "services.models",
+        "description": "services.models",
+        "isExtraImport": true,
+        "detail": "services.models",
+        "documentation": {}
+    },
+    {
+        "label": "Users",
+        "importPath": "services.models",
+        "description": "services.models",
+        "isExtraImport": true,
+        "detail": "services.models",
+        "documentation": {}
+    },
+    {
+        "label": "Users",
+        "importPath": "services.models",
+        "description": "services.models",
+        "isExtraImport": true,
+        "detail": "services.models",
+        "documentation": {}
+    },
+    {
+        "label": "Bookings",
+        "importPath": "services.models",
+        "description": "services.models",
+        "isExtraImport": true,
+        "detail": "services.models",
+        "documentation": {}
+    },
+    {
+        "label": "Rooms",
+        "importPath": "services.models",
+        "description": "services.models",
+        "isExtraImport": true,
+        "detail": "services.models",
+        "documentation": {}
+    },
+    {
+        "label": "Customers",
+        "importPath": "services.models",
+        "description": "services.models",
+        "isExtraImport": true,
+        "detail": "services.models",
+        "documentation": {}
+    },
+    {
+        "label": "Users",
+        "importPath": "services.models",
+        "description": "services.models",
+        "isExtraImport": true,
+        "detail": "services.models",
+        "documentation": {}
+    },
+    {
+        "label": "Users",
+        "importPath": "services.models",
+        "description": "services.models",
+        "isExtraImport": true,
+        "detail": "services.models",
+        "documentation": {}
+    },
+    {
+        "label": "Users",
+        "importPath": "services.models",
+        "description": "services.models",
+        "isExtraImport": true,
+        "detail": "services.models",
+        "documentation": {}
+    },
+    {
+        "label": "BookingState",
+        "importPath": "services.models",
+        "description": "services.models",
+        "isExtraImport": true,
+        "detail": "services.models",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "services.models",
+        "description": "services.models",
+        "isExtraImport": true,
+        "detail": "services.models",
+        "documentation": {}
+    },
+    {
+        "label": "BookingSchema",
+        "importPath": "services.schemas",
+        "description": "services.schemas",
+        "isExtraImport": true,
+        "detail": "services.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "CustomerSchema",
+        "importPath": "services.schemas",
+        "description": "services.schemas",
+        "isExtraImport": true,
+        "detail": "services.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "RoomSchema",
+        "importPath": "services.schemas",
+        "description": "services.schemas",
+        "isExtraImport": true,
+        "detail": "services.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "BookingSchema",
+        "importPath": "services.schemas",
+        "description": "services.schemas",
+        "isExtraImport": true,
+        "detail": "services.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "BookingSchemaView",
+        "importPath": "services.schemas",
+        "description": "services.schemas",
+        "isExtraImport": true,
+        "detail": "services.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "BookingView",
+        "importPath": "services.schemas",
+        "description": "services.schemas",
+        "isExtraImport": true,
+        "detail": "services.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "CustomerSchema",
+        "importPath": "services.schemas",
+        "description": "services.schemas",
+        "isExtraImport": true,
+        "detail": "services.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "CustomerSchemaView",
+        "importPath": "services.schemas",
+        "description": "services.schemas",
+        "isExtraImport": true,
+        "detail": "services.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "RoomSchema",
+        "importPath": "services.schemas",
+        "description": "services.schemas",
+        "isExtraImport": true,
+        "detail": "services.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "RoomSchemaView",
+        "importPath": "services.schemas",
+        "description": "services.schemas",
+        "isExtraImport": true,
+        "detail": "services.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "UserSchema",
+        "importPath": "services.schemas",
+        "description": "services.schemas",
+        "isExtraImport": true,
+        "detail": "services.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "UserSchemaView",
+        "importPath": "services.schemas",
+        "description": "services.schemas",
+        "isExtraImport": true,
+        "detail": "services.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "UserToken",
+        "importPath": "services.schemas",
+        "description": "services.schemas",
+        "isExtraImport": true,
+        "detail": "services.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "date",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "services.database_config",
+        "description": "services.database_config",
+        "isExtraImport": true,
+        "detail": "services.database_config",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "services.database_config",
+        "description": "services.database_config",
+        "isExtraImport": true,
+        "detail": "services.database_config",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "services.database_config",
+        "description": "services.database_config",
+        "isExtraImport": true,
+        "detail": "services.database_config",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "services.database_config",
+        "description": "services.database_config",
+        "isExtraImport": true,
+        "detail": "services.database_config",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "services.database_config",
+        "description": "services.database_config",
+        "isExtraImport": true,
+        "detail": "services.database_config",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "services.database_config",
+        "description": "services.database_config",
+        "isExtraImport": true,
+        "detail": "services.database_config",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "services.database_config",
+        "description": "services.database_config",
+        "isExtraImport": true,
+        "detail": "services.database_config",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "importPath": "services.database_config",
+        "description": "services.database_config",
+        "isExtraImport": true,
+        "detail": "services.database_config",
+        "documentation": {}
+    },
+    {
+        "label": "create_new_booking",
+        "importPath": "api.bookingApi",
+        "description": "api.bookingApi",
+        "isExtraImport": true,
+        "detail": "api.bookingApi",
+        "documentation": {}
+    },
+    {
+        "label": "get_all_bookings",
+        "importPath": "api.bookingApi",
+        "description": "api.bookingApi",
+        "isExtraImport": true,
+        "detail": "api.bookingApi",
+        "documentation": {}
+    },
+    {
+        "label": "get_one_bookings",
+        "importPath": "api.bookingApi",
+        "description": "api.bookingApi",
+        "isExtraImport": true,
+        "detail": "api.bookingApi",
+        "documentation": {}
+    },
+    {
+        "label": "update_one_booking",
+        "importPath": "api.bookingApi",
+        "description": "api.bookingApi",
+        "isExtraImport": true,
+        "detail": "api.bookingApi",
+        "documentation": {}
+    },
+    {
+        "label": "delete_one_booking",
+        "importPath": "api.bookingApi",
+        "description": "api.bookingApi",
+        "isExtraImport": true,
+        "detail": "api.bookingApi",
+        "documentation": {}
+    },
+    {
+        "label": "get_all_bookings_calendar",
+        "importPath": "api.bookingApi",
+        "description": "api.bookingApi",
+        "isExtraImport": true,
+        "detail": "api.bookingApi",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "services.authentication.deps",
+        "description": "services.authentication.deps",
+        "isExtraImport": true,
+        "detail": "services.authentication.deps",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "services.authentication.deps",
+        "description": "services.authentication.deps",
+        "isExtraImport": true,
+        "detail": "services.authentication.deps",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "services.authentication.deps",
+        "description": "services.authentication.deps",
+        "isExtraImport": true,
+        "detail": "services.authentication.deps",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "services.authentication.deps",
+        "description": "services.authentication.deps",
+        "isExtraImport": true,
+        "detail": "services.authentication.deps",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "create_new_customer",
+        "importPath": "api.customerApi",
+        "description": "api.customerApi",
+        "isExtraImport": true,
+        "detail": "api.customerApi",
+        "documentation": {}
+    },
+    {
+        "label": "get_all_customers",
+        "importPath": "api.customerApi",
+        "description": "api.customerApi",
+        "isExtraImport": true,
+        "detail": "api.customerApi",
+        "documentation": {}
+    },
+    {
+        "label": "get_one_customers",
+        "importPath": "api.customerApi",
+        "description": "api.customerApi",
+        "isExtraImport": true,
+        "detail": "api.customerApi",
+        "documentation": {}
+    },
+    {
+        "label": "update_one_customer",
+        "importPath": "api.customerApi",
+        "description": "api.customerApi",
+        "isExtraImport": true,
+        "detail": "api.customerApi",
+        "documentation": {}
+    },
+    {
+        "label": "delete_one_customer",
+        "importPath": "api.customerApi",
+        "description": "api.customerApi",
+        "isExtraImport": true,
+        "detail": "api.customerApi",
+        "documentation": {}
+    },
+    {
+        "label": "func",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "create_engine",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Boolean",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "ForeignKey",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "DateTime",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "func",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Enum",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Date",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "create_new_room",
+        "importPath": "api.roomApi",
+        "description": "api.roomApi",
+        "isExtraImport": true,
+        "detail": "api.roomApi",
+        "documentation": {}
+    },
+    {
+        "label": "get_all_rooms",
+        "importPath": "api.roomApi",
+        "description": "api.roomApi",
+        "isExtraImport": true,
+        "detail": "api.roomApi",
+        "documentation": {}
+    },
+    {
+        "label": "get_one_room",
+        "importPath": "api.roomApi",
+        "description": "api.roomApi",
+        "isExtraImport": true,
+        "detail": "api.roomApi",
+        "documentation": {}
+    },
+    {
+        "label": "update_one_room",
+        "importPath": "api.roomApi",
+        "description": "api.roomApi",
+        "isExtraImport": true,
+        "detail": "api.roomApi",
+        "documentation": {}
+    },
+    {
+        "label": "delete_one_room",
+        "importPath": "api.roomApi",
+        "description": "api.roomApi",
+        "isExtraImport": true,
+        "detail": "api.roomApi",
+        "documentation": {}
+    },
+    {
+        "label": "get_hashed_password",
+        "importPath": "services.authentication.utils",
+        "description": "services.authentication.utils",
+        "isExtraImport": true,
+        "detail": "services.authentication.utils",
+        "documentation": {}
+    },
+    {
+        "label": "create_access_token",
+        "importPath": "services.authentication.utils",
+        "description": "services.authentication.utils",
+        "isExtraImport": true,
+        "detail": "services.authentication.utils",
+        "documentation": {}
+    },
+    {
+        "label": "create_refresh_token",
+        "importPath": "services.authentication.utils",
+        "description": "services.authentication.utils",
+        "isExtraImport": true,
+        "detail": "services.authentication.utils",
+        "documentation": {}
+    },
+    {
+        "label": "verify_password",
+        "importPath": "services.authentication.utils",
+        "description": "services.authentication.utils",
+        "isExtraImport": true,
+        "detail": "services.authentication.utils",
+        "documentation": {}
+    },
+    {
+        "label": "OAuth2PasswordRequestForm",
+        "importPath": "fastapi.security",
+        "description": "fastapi.security",
+        "isExtraImport": true,
+        "detail": "fastapi.security",
+        "documentation": {}
+    },
+    {
+        "label": "OAuth2PasswordBearer",
+        "importPath": "fastapi.security",
+        "description": "fastapi.security",
+        "isExtraImport": true,
+        "detail": "fastapi.security",
+        "documentation": {}
+    },
+    {
+        "label": "RedirectResponse",
+        "importPath": "fastapi.responses",
+        "description": "fastapi.responses",
+        "isExtraImport": true,
+        "detail": "fastapi.responses",
+        "documentation": {}
+    },
+    {
+        "label": "CryptContext",
+        "importPath": "passlib.context",
+        "description": "passlib.context",
+        "isExtraImport": true,
+        "detail": "passlib.context",
+        "documentation": {}
+    },
+    {
+        "label": "CryptContext",
+        "importPath": "passlib.context",
+        "description": "passlib.context",
+        "isExtraImport": true,
+        "detail": "passlib.context",
+        "documentation": {}
+    },
+    {
+        "label": "jwt",
+        "importPath": "jose",
+        "description": "jose",
+        "isExtraImport": true,
+        "detail": "jose",
+        "documentation": {}
+    },
+    {
+        "label": "jwt",
+        "importPath": "jose",
+        "description": "jose",
+        "isExtraImport": true,
+        "detail": "jose",
+        "documentation": {}
+    },
+    {
+        "label": "ast",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "ast",
+        "description": "ast",
+        "detail": "ast",
+        "documentation": {}
+    },
+    {
+        "label": "ValidationError",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "declarative_base",
+        "importPath": "sqlalchemy.ext.declarative",
+        "description": "sqlalchemy.ext.declarative",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.declarative",
+        "documentation": {}
+    },
+    {
+        "label": "USER",
+        "importPath": "services.config",
+        "description": "services.config",
+        "isExtraImport": true,
+        "detail": "services.config",
+        "documentation": {}
+    },
+    {
+        "label": "PASSWORD",
+        "importPath": "services.config",
+        "description": "services.config",
+        "isExtraImport": true,
+        "detail": "services.config",
+        "documentation": {}
+    },
+    {
+        "label": "HOST",
+        "importPath": "services.config",
+        "description": "services.config",
+        "isExtraImport": true,
+        "detail": "services.config",
+        "documentation": {}
+    },
+    {
+        "label": "PORT",
+        "importPath": "services.config",
+        "description": "services.config",
+        "isExtraImport": true,
+        "detail": "services.config",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASE",
+        "importPath": "services.config",
+        "description": "services.config",
+        "isExtraImport": true,
+        "detail": "services.config",
+        "documentation": {}
+    },
+    {
+        "label": "Enum",
+        "importPath": "enum",
+        "description": "enum",
+        "isExtraImport": true,
+        "detail": "enum",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "importPath": "routers.customerRouter",
+        "description": "routers.customerRouter",
+        "isExtraImport": true,
+        "detail": "routers.customerRouter",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "importPath": "routers.roomRouter",
+        "description": "routers.roomRouter",
+        "isExtraImport": true,
+        "detail": "routers.roomRouter",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "importPath": "routers.bookingRouter",
+        "description": "routers.bookingRouter",
+        "isExtraImport": true,
+        "detail": "routers.bookingRouter",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "importPath": "routers.userRouter",
+        "description": "routers.userRouter",
+        "isExtraImport": true,
+        "detail": "routers.userRouter",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "importPath": "routers.dataRouter",
+        "description": "routers.dataRouter",
+        "isExtraImport": true,
+        "detail": "routers.dataRouter",
+        "documentation": {}
+    },
+    {
+        "label": "CORSMiddleware",
+        "importPath": "fastapi.middleware.cors",
+        "description": "fastapi.middleware.cors",
+        "isExtraImport": true,
+        "detail": "fastapi.middleware.cors",
+        "documentation": {}
+    },
+    {
+        "label": "create_new_booking",
+        "kind": 2,
+        "importPath": "api.bookingApi",
+        "description": "api.bookingApi",
+        "peekOfCode": "def create_new_booking(req: BookingSchema, db: Session):  \n    all_id_room_occupied = [] \n    room_occupied = db.query(Rooms).filter(Rooms.id_room==req.id_room)\n    new_s = req.date\n    new_e = req.date + timedelta(days=req.day_number)\n    if not room_occupied.first():\n        raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail={'message': 'room not found', 'error': 'room'})\n    for value in room_occupied:\n        all_id_room_occupied.append(value.id_room)\n    if req.id_room in all_id_room_occupied:",
+        "detail": "api.bookingApi",
+        "documentation": {}
+    },
+    {
+        "label": "get_all_bookings",
+        "kind": 2,
+        "importPath": "api.bookingApi",
+        "description": "api.bookingApi",
+        "peekOfCode": "def get_all_bookings(db: Session):\n    all_bookings = db.query(Bookings).all()\n    return all_bookings\ndef get_one_bookings(id: int, db: Session):\n    booking_select = db.query(Bookings).filter(Bookings.id_booking==id)\n    if not booking_select.first():\n        raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail={'message': 'not found'})\n    return booking_select.first()\ndef update_one_booking(req: BookingSchema, id: int, db: Session):\n    booking_select = db.query(Bookings).filter(Bookings.id_booking==id)",
+        "detail": "api.bookingApi",
+        "documentation": {}
+    },
+    {
+        "label": "get_one_bookings",
+        "kind": 2,
+        "importPath": "api.bookingApi",
+        "description": "api.bookingApi",
+        "peekOfCode": "def get_one_bookings(id: int, db: Session):\n    booking_select = db.query(Bookings).filter(Bookings.id_booking==id)\n    if not booking_select.first():\n        raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail={'message': 'not found'})\n    return booking_select.first()\ndef update_one_booking(req: BookingSchema, id: int, db: Session):\n    booking_select = db.query(Bookings).filter(Bookings.id_booking==id)\n    booking_update = db.query(Bookings).filter(Bookings.id_booking!=id).all()\n    all_id_update = []\n    for value in booking_update:",
+        "detail": "api.bookingApi",
+        "documentation": {}
+    },
+    {
+        "label": "update_one_booking",
+        "kind": 2,
+        "importPath": "api.bookingApi",
+        "description": "api.bookingApi",
+        "peekOfCode": "def update_one_booking(req: BookingSchema, id: int, db: Session):\n    booking_select = db.query(Bookings).filter(Bookings.id_booking==id)\n    booking_update = db.query(Bookings).filter(Bookings.id_booking!=id).all()\n    all_id_update = []\n    for value in booking_update:\n        all_id_update.append(value._id_room)    \n    all_id_room_occupied = [] \n    room_occupied = db.query(Rooms).filter(Rooms.id_room==req.id_room)\n    new_s = req.date\n    new_e = req.date + timedelta(days=req.day_number)",
+        "detail": "api.bookingApi",
+        "documentation": {}
+    },
+    {
+        "label": "delete_one_booking",
+        "kind": 2,
+        "importPath": "api.bookingApi",
+        "description": "api.bookingApi",
+        "peekOfCode": "def delete_one_booking(id: int, db: Session):\n    booking_select = db.query(Bookings).filter(Bookings.id_booking==id)\n    if not booking_select.first():\n        raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail={'message': 'not found'})\n    booking_select.delete(synchronize_session=False)\n    db.commit()\n    return {\n        'detail': {\n            'success': True\n        }",
+        "detail": "api.bookingApi",
+        "documentation": {}
+    },
+    {
+        "label": "get_all_bookings_calendar",
+        "kind": 2,
+        "importPath": "api.bookingApi",
+        "description": "api.bookingApi",
+        "peekOfCode": "def get_all_bookings_calendar(db: Session):\n    allData = []\n    for b, r, c in db.query(Bookings, Rooms, Customers).filter(Bookings._id_room == Rooms.id_room).filter(Bookings._id_customer==Customers.id_customer).all():\n        print(b.id_booking, b.date + timedelta(days=4), b.day_number)\n        allData.append(\n            {\n                'title': f'Room number {b._id_room} is ocupied by {c.nom} {c.prenoms}',\n                'start': b.date,\n                'end': b.date + timedelta(days=b.day_number)\n            }",
+        "detail": "api.bookingApi",
+        "documentation": {}
+    },
+    {
+        "label": "create_new_customer",
+        "kind": 2,
+        "importPath": "api.customerApi",
+        "description": "api.customerApi",
+        "peekOfCode": "def create_new_customer(req: CustomerSchema, db: Session):\n    if req.nom == '':\n        raise HTTPException(status_code=status.HTTP_400_BAD_REQUEST, detail={'status': 'error', 'error_type': req.nom})\n    if req.cin == '':\n        raise HTTPException(status_code=status.HTTP_400_BAD_REQUEST, detail={'status': 'error', 'error_type': req.cin})\n    if req.telephone == '':\n        raise HTTPException(status_code=status.HTTP_400_BAD_REQUEST, detail={'status': 'error', 'error_type': req.telephone})\n    if req.email == '':\n        raise HTTPException(status_code=status.HTTP_400_BAD_REQUEST, detail={'status': 'error', 'error_type': req.email})\n    new_customer = Customers(",
+        "detail": "api.customerApi",
+        "documentation": {}
+    },
+    {
+        "label": "get_all_customers",
+        "kind": 2,
+        "importPath": "api.customerApi",
+        "description": "api.customerApi",
+        "peekOfCode": "def get_all_customers(db: Session):\n    all_customers = db.query(Customers).all()\n    return all_customers\ndef get_one_customers(id: int, db: Session):\n    customer_select = db.query(Customers).filter(Customers.id_customer==id)\n    if not customer_select.first():\n        raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail={'message': 'not found'})\n    return customer_select.first()\ndef update_one_customer(req: CustomerSchema, id: int, db: Session):\n    customer_select = db.query(Customers).filter(Customers.id_customer==id)",
+        "detail": "api.customerApi",
+        "documentation": {}
+    },
+    {
+        "label": "get_one_customers",
+        "kind": 2,
+        "importPath": "api.customerApi",
+        "description": "api.customerApi",
+        "peekOfCode": "def get_one_customers(id: int, db: Session):\n    customer_select = db.query(Customers).filter(Customers.id_customer==id)\n    if not customer_select.first():\n        raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail={'message': 'not found'})\n    return customer_select.first()\ndef update_one_customer(req: CustomerSchema, id: int, db: Session):\n    customer_select = db.query(Customers).filter(Customers.id_customer==id)\n    if not customer_select.first():\n        raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail={'message': 'not found'})\n    customer_select.update({",
+        "detail": "api.customerApi",
+        "documentation": {}
+    },
+    {
+        "label": "update_one_customer",
+        "kind": 2,
+        "importPath": "api.customerApi",
+        "description": "api.customerApi",
+        "peekOfCode": "def update_one_customer(req: CustomerSchema, id: int, db: Session):\n    customer_select = db.query(Customers).filter(Customers.id_customer==id)\n    if not customer_select.first():\n        raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail={'message': 'not found'})\n    customer_select.update({\n        'nom': req.nom,\n        'prenoms': req.prenoms,\n        'cin': req.cin,\n        'telephone': req.telephone,\n        'email': req.email,",
+        "detail": "api.customerApi",
+        "documentation": {}
+    },
+    {
+        "label": "delete_one_customer",
+        "kind": 2,
+        "importPath": "api.customerApi",
+        "description": "api.customerApi",
+        "peekOfCode": "def delete_one_customer(id: int, db: Session):\n    customer_select = db.query(Customers).filter(Customers.id_customer==id) \n    booking_select = db.query(Bookings).filter(Bookings._id_customer==id)\n    if not customer_select.first():\n        raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail={'message': 'not found'})\n    booking_select.delete(synchronize_session=False)    \n    customer_select.delete(synchronize_session=False)\n    db.commit()\n    return {\n        'detail': {",
+        "detail": "api.customerApi",
+        "documentation": {}
+    },
+    {
+        "label": "create_new_room",
+        "kind": 2,
+        "importPath": "api.roomApi",
+        "description": "api.roomApi",
+        "peekOfCode": "def create_new_room(req: RoomSchema, db: Session):\n    new_room = Rooms(\n        number=req.number,\n        price_day=req.price_day,\n        capacity=req.capacity\n    )\n    db.add(new_room)\n    db.commit()\n    db.refresh(new_room)\n    return new_room",
+        "detail": "api.roomApi",
+        "documentation": {}
+    },
+    {
+        "label": "get_all_rooms",
+        "kind": 2,
+        "importPath": "api.roomApi",
+        "description": "api.roomApi",
+        "peekOfCode": "def get_all_rooms(db: Session):\n    all_rooms = db.query(Rooms).all()\n    return all_rooms\ndef get_one_room(id: int, db: Session):\n    room_select = db.query(Rooms).filter(Rooms.id_room==id)\n    if not room_select.first():\n        raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail={'message': 'not found'})\n    return room_select.first()\ndef update_one_room(req: RoomSchema, id: int, db: Session):\n    room_select = db.query(Rooms).filter(Rooms.id_room==id)",
+        "detail": "api.roomApi",
+        "documentation": {}
+    },
+    {
+        "label": "get_one_room",
+        "kind": 2,
+        "importPath": "api.roomApi",
+        "description": "api.roomApi",
+        "peekOfCode": "def get_one_room(id: int, db: Session):\n    room_select = db.query(Rooms).filter(Rooms.id_room==id)\n    if not room_select.first():\n        raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail={'message': 'not found'})\n    return room_select.first()\ndef update_one_room(req: RoomSchema, id: int, db: Session):\n    room_select = db.query(Rooms).filter(Rooms.id_room==id)\n    if not room_select.first():\n        raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail={'message': 'not found'})\n    room_select.update({",
+        "detail": "api.roomApi",
+        "documentation": {}
+    },
+    {
+        "label": "update_one_room",
+        "kind": 2,
+        "importPath": "api.roomApi",
+        "description": "api.roomApi",
+        "peekOfCode": "def update_one_room(req: RoomSchema, id: int, db: Session):\n    room_select = db.query(Rooms).filter(Rooms.id_room==id)\n    if not room_select.first():\n        raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail={'message': 'not found'})\n    room_select.update({\n        'number': req.number,\n        'price_day': req.price_day,\n        'capacity': req.capacity,\n        'updated_at': datetime.now()\n    })",
+        "detail": "api.roomApi",
+        "documentation": {}
+    },
+    {
+        "label": "delete_one_room",
+        "kind": 2,
+        "importPath": "api.roomApi",
+        "description": "api.roomApi",
+        "peekOfCode": "def delete_one_room(id: int, db: Session):\n    room_select = db.query(Rooms).filter(Rooms.id_room==id)\n    booking_select = db.query(Bookings).filter(Bookings._id_room==id)\n    if not room_select.first():\n        raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail={'message': 'not found'})\n    booking_select.delete(synchronize_session=False)   \n    room_select.delete(synchronize_session=False)\n    db.commit()\n    return {\n        'detail': {",
+        "detail": "api.roomApi",
+        "documentation": {}
+    },
+    {
+        "label": "new_booking",
+        "kind": 2,
+        "importPath": "routers.bookingRouter",
+        "description": "routers.bookingRouter",
+        "peekOfCode": "def new_booking(req: BookingSchema, user: Users = Depends(get_current_user), db: Session = Depends(get_db)):\n    return create_new_booking(req, db)\n# router for gettin all bookings\n@router.get('/all')\ndef all_bookings(user: Users = Depends(get_current_user), db: Session = Depends(get_db)):\n    return get_all_bookings(db)\n# router for gettin all bookings\n@router.get('/calendar')\ndef calendar_bookings(user: Users = Depends(get_current_user), db: Session = Depends(get_db)):\n    return get_all_bookings_calendar(db)",
+        "detail": "routers.bookingRouter",
+        "documentation": {}
+    },
+    {
+        "label": "all_bookings",
+        "kind": 2,
+        "importPath": "routers.bookingRouter",
+        "description": "routers.bookingRouter",
+        "peekOfCode": "def all_bookings(user: Users = Depends(get_current_user), db: Session = Depends(get_db)):\n    return get_all_bookings(db)\n# router for gettin all bookings\n@router.get('/calendar')\ndef calendar_bookings(user: Users = Depends(get_current_user), db: Session = Depends(get_db)):\n    return get_all_bookings_calendar(db)\n# router for getting just one booking\n@router.get('/{id}')\ndef one_booking(id: int, user: Users = Depends(get_current_user), db: Session = Depends(get_db)):\n    return get_one_bookings(id, db)",
+        "detail": "routers.bookingRouter",
+        "documentation": {}
+    },
+    {
+        "label": "calendar_bookings",
+        "kind": 2,
+        "importPath": "routers.bookingRouter",
+        "description": "routers.bookingRouter",
+        "peekOfCode": "def calendar_bookings(user: Users = Depends(get_current_user), db: Session = Depends(get_db)):\n    return get_all_bookings_calendar(db)\n# router for getting just one booking\n@router.get('/{id}')\ndef one_booking(id: int, user: Users = Depends(get_current_user), db: Session = Depends(get_db)):\n    return get_one_bookings(id, db)\n# router for updating just one booking\n@router.put('/edit/{id}')\ndef update_booking(req: BookingSchema, id: int, user: Users = Depends(get_current_user), db: Session = Depends(get_db)):\n    return update_one_booking(req, id, db)",
+        "detail": "routers.bookingRouter",
+        "documentation": {}
+    },
+    {
+        "label": "one_booking",
+        "kind": 2,
+        "importPath": "routers.bookingRouter",
+        "description": "routers.bookingRouter",
+        "peekOfCode": "def one_booking(id: int, user: Users = Depends(get_current_user), db: Session = Depends(get_db)):\n    return get_one_bookings(id, db)\n# router for updating just one booking\n@router.put('/edit/{id}')\ndef update_booking(req: BookingSchema, id: int, user: Users = Depends(get_current_user), db: Session = Depends(get_db)):\n    return update_one_booking(req, id, db)\n# router for deleting one booking\n@router.delete('/delete/{id}')\ndef delete_booking(id: int, user: Users = Depends(get_current_user), db: Session = Depends(get_db)):\n    return delete_one_booking(id, db)",
+        "detail": "routers.bookingRouter",
+        "documentation": {}
+    },
+    {
+        "label": "update_booking",
+        "kind": 2,
+        "importPath": "routers.bookingRouter",
+        "description": "routers.bookingRouter",
+        "peekOfCode": "def update_booking(req: BookingSchema, id: int, user: Users = Depends(get_current_user), db: Session = Depends(get_db)):\n    return update_one_booking(req, id, db)\n# router for deleting one booking\n@router.delete('/delete/{id}')\ndef delete_booking(id: int, user: Users = Depends(get_current_user), db: Session = Depends(get_db)):\n    return delete_one_booking(id, db)",
+        "detail": "routers.bookingRouter",
+        "documentation": {}
+    },
+    {
+        "label": "delete_booking",
+        "kind": 2,
+        "importPath": "routers.bookingRouter",
+        "description": "routers.bookingRouter",
+        "peekOfCode": "def delete_booking(id: int, user: Users = Depends(get_current_user), db: Session = Depends(get_db)):\n    return delete_one_booking(id, db)",
+        "detail": "routers.bookingRouter",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "routers.bookingRouter",
+        "description": "routers.bookingRouter",
+        "peekOfCode": "router = APIRouter(\n    prefix=\"/api/booking\",\n    tags=[\"API BOOKINGS\"]\n)\n# router for creating a new customer\n@router.post('/new', status_code=status.HTTP_201_CREATED)\ndef new_booking(req: BookingSchema, user: Users = Depends(get_current_user), db: Session = Depends(get_db)):\n    return create_new_booking(req, db)\n# router for gettin all bookings\n@router.get('/all')",
+        "detail": "routers.bookingRouter",
+        "documentation": {}
+    },
+    {
+        "label": "new_customer",
+        "kind": 2,
+        "importPath": "routers.customerRouter",
+        "description": "routers.customerRouter",
+        "peekOfCode": "def new_customer(req: CustomerSchema, user: Users = Depends(get_current_user), db: Session = Depends(get_db)):\n    return create_new_customer(req, db)\n# router for gettin all customers\n@router.get('/all')\ndef all_customers(user: Users = Depends(get_current_user), db: Session = Depends(get_db)):\n    return get_all_customers(db)\n# router for getting just one customer\n@router.get('/{id}')\ndef one_customer(id: int, user: Users = Depends(get_current_user), db: Session = Depends(get_db)):\n    return get_one_customers(id, db)",
+        "detail": "routers.customerRouter",
+        "documentation": {}
+    },
+    {
+        "label": "all_customers",
+        "kind": 2,
+        "importPath": "routers.customerRouter",
+        "description": "routers.customerRouter",
+        "peekOfCode": "def all_customers(user: Users = Depends(get_current_user), db: Session = Depends(get_db)):\n    return get_all_customers(db)\n# router for getting just one customer\n@router.get('/{id}')\ndef one_customer(id: int, user: Users = Depends(get_current_user), db: Session = Depends(get_db)):\n    return get_one_customers(id, db)\n# router for updating just one customer\n@router.put('/edit/{id}')\ndef update_customer(req: CustomerSchema, id: int, user: Users = Depends(get_current_user), db: Session = Depends(get_db)):\n    return update_one_customer(req, id, db)",
+        "detail": "routers.customerRouter",
+        "documentation": {}
+    },
+    {
+        "label": "one_customer",
+        "kind": 2,
+        "importPath": "routers.customerRouter",
+        "description": "routers.customerRouter",
+        "peekOfCode": "def one_customer(id: int, user: Users = Depends(get_current_user), db: Session = Depends(get_db)):\n    return get_one_customers(id, db)\n# router for updating just one customer\n@router.put('/edit/{id}')\ndef update_customer(req: CustomerSchema, id: int, user: Users = Depends(get_current_user), db: Session = Depends(get_db)):\n    return update_one_customer(req, id, db)\n# router for deleting one customer\n@router.delete('/delete/{id}')\ndef delete_customer(id: int, user: Users = Depends(get_current_user), db: Session = Depends(get_db)):\n    return delete_one_customer(id, db)",
+        "detail": "routers.customerRouter",
+        "documentation": {}
+    },
+    {
+        "label": "update_customer",
+        "kind": 2,
+        "importPath": "routers.customerRouter",
+        "description": "routers.customerRouter",
+        "peekOfCode": "def update_customer(req: CustomerSchema, id: int, user: Users = Depends(get_current_user), db: Session = Depends(get_db)):\n    return update_one_customer(req, id, db)\n# router for deleting one customer\n@router.delete('/delete/{id}')\ndef delete_customer(id: int, user: Users = Depends(get_current_user), db: Session = Depends(get_db)):\n    return delete_one_customer(id, db)",
+        "detail": "routers.customerRouter",
+        "documentation": {}
+    },
+    {
+        "label": "delete_customer",
+        "kind": 2,
+        "importPath": "routers.customerRouter",
+        "description": "routers.customerRouter",
+        "peekOfCode": "def delete_customer(id: int, user: Users = Depends(get_current_user), db: Session = Depends(get_db)):\n    return delete_one_customer(id, db)",
+        "detail": "routers.customerRouter",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "routers.customerRouter",
+        "description": "routers.customerRouter",
+        "peekOfCode": "router = APIRouter(\n    prefix=\"/api/customer\",\n    tags=[\"API CUSTOMERS\"]\n)\n# router for creating a new customer\n@router.post('/new', status_code=status.HTTP_201_CREATED)\ndef new_customer(req: CustomerSchema, user: Users = Depends(get_current_user), db: Session = Depends(get_db)):\n    return create_new_customer(req, db)\n# router for gettin all customers\n@router.get('/all')",
+        "detail": "routers.customerRouter",
+        "documentation": {}
+    },
+    {
+        "label": "free_room",
+        "kind": 2,
+        "importPath": "routers.dataRouter",
+        "description": "routers.dataRouter",
+        "peekOfCode": "def free_room(user: Users = Depends(get_current_user), db: Session = Depends(get_db)):\n    all_rooms = db.query(Rooms).all()\n    all_customers = db.query(Customers).all()\n    all_bookings = db.query(Bookings).all()\n    all_rooms_ocupied = db.query(Rooms).join(Bookings).filter(Bookings._id_room==Rooms.id_room).all()\n    return {\n        \"rooms\": len(all_rooms),\n        \"customers\": len(all_customers),\n        \"bookings\": len(all_bookings),\n        \"rooms_ocupied\": len(all_rooms_ocupied)        ",
+        "detail": "routers.dataRouter",
+        "documentation": {}
+    },
+    {
+        "label": "ocupied_room",
+        "kind": 2,
+        "importPath": "routers.dataRouter",
+        "description": "routers.dataRouter",
+        "peekOfCode": "def ocupied_room(user: Users = Depends(get_current_user), db: Session = Depends(get_db)):\n    return 'ocupied room'\n@router.get('/data/collection/money')\ndef money(user: Users = Depends(get_current_user), db: Session = Depends(get_db)):\n    return 'money'\n@router.get('/data/collection/customer-money')\ndef customer_money(user: Users = Depends(get_current_user), db: Session = Depends(get_db)):\n    allData = []\n    for b, r in db.query(Customers, func.sum(Bookings.day_number*Rooms.price_day)).group_by().filter(Bookings._id_room == Rooms.id_room).filter(Bookings._id_customer==Customers.id_customer).group_by(Customers.id_customer).all():\n        print(r, b.nom)",
+        "detail": "routers.dataRouter",
+        "documentation": {}
+    },
+    {
+        "label": "money",
+        "kind": 2,
+        "importPath": "routers.dataRouter",
+        "description": "routers.dataRouter",
+        "peekOfCode": "def money(user: Users = Depends(get_current_user), db: Session = Depends(get_db)):\n    return 'money'\n@router.get('/data/collection/customer-money')\ndef customer_money(user: Users = Depends(get_current_user), db: Session = Depends(get_db)):\n    allData = []\n    for b, r in db.query(Customers, func.sum(Bookings.day_number*Rooms.price_day)).group_by().filter(Bookings._id_room == Rooms.id_room).filter(Bookings._id_customer==Customers.id_customer).group_by(Customers.id_customer).all():\n        print(r, b.nom)\n        allData.append({\n            'cutomer': f'{b.nom} {b.prenoms}',\n            'tarif': r",
+        "detail": "routers.dataRouter",
+        "documentation": {}
+    },
+    {
+        "label": "customer_money",
+        "kind": 2,
+        "importPath": "routers.dataRouter",
+        "description": "routers.dataRouter",
+        "peekOfCode": "def customer_money(user: Users = Depends(get_current_user), db: Session = Depends(get_db)):\n    allData = []\n    for b, r in db.query(Customers, func.sum(Bookings.day_number*Rooms.price_day)).group_by().filter(Bookings._id_room == Rooms.id_room).filter(Bookings._id_customer==Customers.id_customer).group_by(Customers.id_customer).all():\n        print(r, b.nom)\n        allData.append({\n            'cutomer': f'{b.nom} {b.prenoms}',\n            'tarif': r\n        })\n    return allData",
+        "detail": "routers.dataRouter",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "routers.dataRouter",
+        "description": "routers.dataRouter",
+        "peekOfCode": "router = APIRouter(\n    prefix=\"/api/data\",\n    tags=[\"API DATA COLLECTION\"]\n)\n@router.get('/data/collection/free-room')\ndef free_room(user: Users = Depends(get_current_user), db: Session = Depends(get_db)):\n    all_rooms = db.query(Rooms).all()\n    all_customers = db.query(Customers).all()\n    all_bookings = db.query(Bookings).all()\n    all_rooms_ocupied = db.query(Rooms).join(Bookings).filter(Bookings._id_room==Rooms.id_room).all()",
+        "detail": "routers.dataRouter",
+        "documentation": {}
+    },
+    {
+        "label": "new_room",
+        "kind": 2,
+        "importPath": "routers.roomRouter",
+        "description": "routers.roomRouter",
+        "peekOfCode": "def new_room(req: RoomSchema, user: Users = Depends(get_current_user), db: Session = Depends(get_db)):\n    return create_new_room(req, db)\n# router for getting all rooms\n@router.get('/all')\ndef all_rooms(user: Users = Depends(get_current_user), db: Session = Depends(get_db)):\n    return get_all_rooms(db)\n# router for getting just one room\n@router.get('/{id}')\ndef one_room(id: int, user: Users = Depends(get_current_user), db: Session = Depends(get_db)):\n    return get_one_room(id, db)",
+        "detail": "routers.roomRouter",
+        "documentation": {}
+    },
+    {
+        "label": "all_rooms",
+        "kind": 2,
+        "importPath": "routers.roomRouter",
+        "description": "routers.roomRouter",
+        "peekOfCode": "def all_rooms(user: Users = Depends(get_current_user), db: Session = Depends(get_db)):\n    return get_all_rooms(db)\n# router for getting just one room\n@router.get('/{id}')\ndef one_room(id: int, user: Users = Depends(get_current_user), db: Session = Depends(get_db)):\n    return get_one_room(id, db)\n# router for updating just one room\n@router.put('/edit/{id}')\ndef update_room(req: RoomSchema, id: int, user: Users = Depends(get_current_user), db: Session = Depends(get_db)):\n    return update_one_room(req, id, db)",
+        "detail": "routers.roomRouter",
+        "documentation": {}
+    },
+    {
+        "label": "one_room",
+        "kind": 2,
+        "importPath": "routers.roomRouter",
+        "description": "routers.roomRouter",
+        "peekOfCode": "def one_room(id: int, user: Users = Depends(get_current_user), db: Session = Depends(get_db)):\n    return get_one_room(id, db)\n# router for updating just one room\n@router.put('/edit/{id}')\ndef update_room(req: RoomSchema, id: int, user: Users = Depends(get_current_user), db: Session = Depends(get_db)):\n    return update_one_room(req, id, db)\n# router for deleting one room\n@router.delete('/delete/{id}')\ndef delete_room(id: int, user: Users = Depends(get_current_user), db: Session = Depends(get_db)):\n    return delete_one_room(id, db)",
+        "detail": "routers.roomRouter",
+        "documentation": {}
+    },
+    {
+        "label": "update_room",
+        "kind": 2,
+        "importPath": "routers.roomRouter",
+        "description": "routers.roomRouter",
+        "peekOfCode": "def update_room(req: RoomSchema, id: int, user: Users = Depends(get_current_user), db: Session = Depends(get_db)):\n    return update_one_room(req, id, db)\n# router for deleting one room\n@router.delete('/delete/{id}')\ndef delete_room(id: int, user: Users = Depends(get_current_user), db: Session = Depends(get_db)):\n    return delete_one_room(id, db)",
+        "detail": "routers.roomRouter",
+        "documentation": {}
+    },
+    {
+        "label": "delete_room",
+        "kind": 2,
+        "importPath": "routers.roomRouter",
+        "description": "routers.roomRouter",
+        "peekOfCode": "def delete_room(id: int, user: Users = Depends(get_current_user), db: Session = Depends(get_db)):\n    return delete_one_room(id, db)",
+        "detail": "routers.roomRouter",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "routers.roomRouter",
+        "description": "routers.roomRouter",
+        "peekOfCode": "router = APIRouter(\n    prefix=\"/api/room\",\n    tags=[\"API ROOMS\"]\n)\n# router for creating a new room\n@router.post('/new', status_code=status.HTTP_201_CREATED)\ndef new_room(req: RoomSchema, user: Users = Depends(get_current_user), db: Session = Depends(get_db)):\n    return create_new_room(req, db)\n# router for getting all rooms\n@router.get('/all')",
+        "detail": "routers.roomRouter",
+        "documentation": {}
+    },
+    {
+        "label": "create_user",
+        "kind": 2,
+        "importPath": "routers.userRouter",
+        "description": "routers.userRouter",
+        "peekOfCode": "def create_user(req: UserSchema, db: Session = Depends(get_db)):\n    # check first if user already existed\n    all_email = []\n    user_existed = db.query(Users).all()\n    for value in user_existed:\n        all_email.append(value.email)\n    if req.email in all_email:\n        raise HTTPException(status_code=status.HTTP_400_BAD_REQUEST, detail={'error': 'email'})\n    new_user = Users(\n        email=req.email,",
+        "detail": "routers.userRouter",
+        "documentation": {}
+    },
+    {
+        "label": "login",
+        "kind": 2,
+        "importPath": "routers.userRouter",
+        "description": "routers.userRouter",
+        "peekOfCode": "def login(form_data: OAuth2PasswordRequestForm = Depends(), db: Session = Depends(get_db)):    \n    user = db.query(Users).filter(Users.email==form_data.username).first()\n    if not user:\n        raise HTTPException(\n            status_code=status.HTTP_400_BAD_REQUEST,\n            detail=\"email_not_found\"\n        )\n    hashed_pass = user.password\n    if not verify_password(form_data.password, hashed_pass):\n        raise HTTPException(",
+        "detail": "routers.userRouter",
+        "documentation": {}
+    },
+    {
+        "label": "password_context",
+        "kind": 5,
+        "importPath": "routers.userRouter",
+        "description": "routers.userRouter",
+        "peekOfCode": "password_context = CryptContext(schemes=[\"bcrypt\"], deprecated=\"auto\")\nrouter = APIRouter(\n    prefix='/api/user',\n    tags=['API USERS']\n)\n@router.post('/signup')\ndef create_user(req: UserSchema, db: Session = Depends(get_db)):\n    # check first if user already existed\n    all_email = []\n    user_existed = db.query(Users).all()",
+        "detail": "routers.userRouter",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "routers.userRouter",
+        "description": "routers.userRouter",
+        "peekOfCode": "router = APIRouter(\n    prefix='/api/user',\n    tags=['API USERS']\n)\n@router.post('/signup')\ndef create_user(req: UserSchema, db: Session = Depends(get_db)):\n    # check first if user already existed\n    all_email = []\n    user_existed = db.query(Users).all()\n    for value in user_existed:",
+        "detail": "routers.userRouter",
+        "documentation": {}
+    },
+    {
+        "label": "reuseable_oauth",
+        "kind": 5,
+        "importPath": "services.authentication.deps",
+        "description": "services.authentication.deps",
+        "peekOfCode": "reuseable_oauth = OAuth2PasswordBearer(\n    tokenUrl=\"/api/user/login\",\n    scheme_name=\"JWT\"\n)\nasync def get_current_user(token: str = Depends(reuseable_oauth), db: Session = Depends(get_db)):\n    try:\n        payload = jwt.decode(\n            token, JWT_SECRET_KEY, algorithms=[ALGORITHM]\n        )\n        payload_dict = ast.literal_eval(payload['sub'])",
+        "detail": "services.authentication.deps",
+        "documentation": {}
+    },
+    {
+        "label": "get_hashed_password",
+        "kind": 2,
+        "importPath": "services.authentication.utils",
+        "description": "services.authentication.utils",
+        "peekOfCode": "def get_hashed_password(password: str) -> str:\n    return password_context.hash(password)\ndef verify_password(password: str, hashed_pass: str) -> bool:\n    return password_context.verify(password, hashed_pass)\ndef create_access_token(subject: Union[str, Any], expires_delta: int = None) -> str:\n    if expires_delta is not None:\n        expires_delta = datetime.utcnow() + expires_delta\n    else:\n        expires_delta = datetime.utcnow() + timedelta(minutes=ACCESS_TOKEN_EXPIRE_MINUTES)\n    to_encode = {\"exp\": expires_delta, \"sub\": str(subject)}",
+        "detail": "services.authentication.utils",
+        "documentation": {}
+    },
+    {
+        "label": "verify_password",
+        "kind": 2,
+        "importPath": "services.authentication.utils",
+        "description": "services.authentication.utils",
+        "peekOfCode": "def verify_password(password: str, hashed_pass: str) -> bool:\n    return password_context.verify(password, hashed_pass)\ndef create_access_token(subject: Union[str, Any], expires_delta: int = None) -> str:\n    if expires_delta is not None:\n        expires_delta = datetime.utcnow() + expires_delta\n    else:\n        expires_delta = datetime.utcnow() + timedelta(minutes=ACCESS_TOKEN_EXPIRE_MINUTES)\n    to_encode = {\"exp\": expires_delta, \"sub\": str(subject)}\n    encoded_jwt = jwt.encode(to_encode, JWT_SECRET_KEY, ALGORITHM)\n    return encoded_jwt",
+        "detail": "services.authentication.utils",
+        "documentation": {}
+    },
+    {
+        "label": "create_access_token",
+        "kind": 2,
+        "importPath": "services.authentication.utils",
+        "description": "services.authentication.utils",
+        "peekOfCode": "def create_access_token(subject: Union[str, Any], expires_delta: int = None) -> str:\n    if expires_delta is not None:\n        expires_delta = datetime.utcnow() + expires_delta\n    else:\n        expires_delta = datetime.utcnow() + timedelta(minutes=ACCESS_TOKEN_EXPIRE_MINUTES)\n    to_encode = {\"exp\": expires_delta, \"sub\": str(subject)}\n    encoded_jwt = jwt.encode(to_encode, JWT_SECRET_KEY, ALGORITHM)\n    return encoded_jwt\ndef create_refresh_token(subject: Union[str, Any], expires_delta: int = None) -> str:\n    if expires_delta is not None:",
+        "detail": "services.authentication.utils",
+        "documentation": {}
+    },
+    {
+        "label": "create_refresh_token",
+        "kind": 2,
+        "importPath": "services.authentication.utils",
+        "description": "services.authentication.utils",
+        "peekOfCode": "def create_refresh_token(subject: Union[str, Any], expires_delta: int = None) -> str:\n    if expires_delta is not None:\n        expires_delta = datetime.utcnow() + expires_delta\n    else:\n        expires_delta = datetime.utcnow() + timedelta(minutes=REFRESH_TOKEN_EXPIRE_MINUTES)\n    to_encode = {\"exp\": expires_delta, \"sub\": str(subject)}\n    encoded_jwt = jwt.encode(to_encode, JWT_REFRESH_SECRET_KEY, ALGORITHM)\n    return encoded_jwt",
+        "detail": "services.authentication.utils",
+        "documentation": {}
+    },
+    {
+        "label": "ACCESS_TOKEN_EXPIRE_MINUTES",
+        "kind": 5,
+        "importPath": "services.authentication.utils",
+        "description": "services.authentication.utils",
+        "peekOfCode": "ACCESS_TOKEN_EXPIRE_MINUTES = 60 * 24  # 30 minutes\nREFRESH_TOKEN_EXPIRE_MINUTES = 60 * 24 * 7 # 7 days\nALGORITHM = \"HS256\"\nJWT_SECRET_KEY = 'MY_SECRET_KEY'    # should be kept secret\nJWT_REFRESH_SECRET_KEY = 'JWT_REFRESH_SECRET_KEY'   # should be kept secret\npassword_context = CryptContext(schemes=[\"bcrypt\"], deprecated=\"auto\")\ndef get_hashed_password(password: str) -> str:\n    return password_context.hash(password)\ndef verify_password(password: str, hashed_pass: str) -> bool:\n    return password_context.verify(password, hashed_pass)",
+        "detail": "services.authentication.utils",
+        "documentation": {}
+    },
+    {
+        "label": "REFRESH_TOKEN_EXPIRE_MINUTES",
+        "kind": 5,
+        "importPath": "services.authentication.utils",
+        "description": "services.authentication.utils",
+        "peekOfCode": "REFRESH_TOKEN_EXPIRE_MINUTES = 60 * 24 * 7 # 7 days\nALGORITHM = \"HS256\"\nJWT_SECRET_KEY = 'MY_SECRET_KEY'    # should be kept secret\nJWT_REFRESH_SECRET_KEY = 'JWT_REFRESH_SECRET_KEY'   # should be kept secret\npassword_context = CryptContext(schemes=[\"bcrypt\"], deprecated=\"auto\")\ndef get_hashed_password(password: str) -> str:\n    return password_context.hash(password)\ndef verify_password(password: str, hashed_pass: str) -> bool:\n    return password_context.verify(password, hashed_pass)\ndef create_access_token(subject: Union[str, Any], expires_delta: int = None) -> str:",
+        "detail": "services.authentication.utils",
+        "documentation": {}
+    },
+    {
+        "label": "ALGORITHM",
+        "kind": 5,
+        "importPath": "services.authentication.utils",
+        "description": "services.authentication.utils",
+        "peekOfCode": "ALGORITHM = \"HS256\"\nJWT_SECRET_KEY = 'MY_SECRET_KEY'    # should be kept secret\nJWT_REFRESH_SECRET_KEY = 'JWT_REFRESH_SECRET_KEY'   # should be kept secret\npassword_context = CryptContext(schemes=[\"bcrypt\"], deprecated=\"auto\")\ndef get_hashed_password(password: str) -> str:\n    return password_context.hash(password)\ndef verify_password(password: str, hashed_pass: str) -> bool:\n    return password_context.verify(password, hashed_pass)\ndef create_access_token(subject: Union[str, Any], expires_delta: int = None) -> str:\n    if expires_delta is not None:",
+        "detail": "services.authentication.utils",
+        "documentation": {}
+    },
+    {
+        "label": "JWT_SECRET_KEY",
+        "kind": 5,
+        "importPath": "services.authentication.utils",
+        "description": "services.authentication.utils",
+        "peekOfCode": "JWT_SECRET_KEY = 'MY_SECRET_KEY'    # should be kept secret\nJWT_REFRESH_SECRET_KEY = 'JWT_REFRESH_SECRET_KEY'   # should be kept secret\npassword_context = CryptContext(schemes=[\"bcrypt\"], deprecated=\"auto\")\ndef get_hashed_password(password: str) -> str:\n    return password_context.hash(password)\ndef verify_password(password: str, hashed_pass: str) -> bool:\n    return password_context.verify(password, hashed_pass)\ndef create_access_token(subject: Union[str, Any], expires_delta: int = None) -> str:\n    if expires_delta is not None:\n        expires_delta = datetime.utcnow() + expires_delta",
+        "detail": "services.authentication.utils",
+        "documentation": {}
+    },
+    {
+        "label": "JWT_REFRESH_SECRET_KEY",
+        "kind": 5,
+        "importPath": "services.authentication.utils",
+        "description": "services.authentication.utils",
+        "peekOfCode": "JWT_REFRESH_SECRET_KEY = 'JWT_REFRESH_SECRET_KEY'   # should be kept secret\npassword_context = CryptContext(schemes=[\"bcrypt\"], deprecated=\"auto\")\ndef get_hashed_password(password: str) -> str:\n    return password_context.hash(password)\ndef verify_password(password: str, hashed_pass: str) -> bool:\n    return password_context.verify(password, hashed_pass)\ndef create_access_token(subject: Union[str, Any], expires_delta: int = None) -> str:\n    if expires_delta is not None:\n        expires_delta = datetime.utcnow() + expires_delta\n    else:",
+        "detail": "services.authentication.utils",
+        "documentation": {}
+    },
+    {
+        "label": "password_context",
+        "kind": 5,
+        "importPath": "services.authentication.utils",
+        "description": "services.authentication.utils",
+        "peekOfCode": "password_context = CryptContext(schemes=[\"bcrypt\"], deprecated=\"auto\")\ndef get_hashed_password(password: str) -> str:\n    return password_context.hash(password)\ndef verify_password(password: str, hashed_pass: str) -> bool:\n    return password_context.verify(password, hashed_pass)\ndef create_access_token(subject: Union[str, Any], expires_delta: int = None) -> str:\n    if expires_delta is not None:\n        expires_delta = datetime.utcnow() + expires_delta\n    else:\n        expires_delta = datetime.utcnow() + timedelta(minutes=ACCESS_TOKEN_EXPIRE_MINUTES)",
+        "detail": "services.authentication.utils",
+        "documentation": {}
+    },
+    {
+        "label": "USER",
+        "kind": 5,
+        "importPath": "services.config",
+        "description": "services.config",
+        "peekOfCode": "USER = 'postgres'\nPASSWORD = 'herylanto'\nHOST = 'localhost'\nPORT = '5432'\nDATABASE = 'reservation_chambre'",
+        "detail": "services.config",
+        "documentation": {}
+    },
+    {
+        "label": "PASSWORD",
+        "kind": 5,
+        "importPath": "services.config",
+        "description": "services.config",
+        "peekOfCode": "PASSWORD = 'herylanto'\nHOST = 'localhost'\nPORT = '5432'\nDATABASE = 'reservation_chambre'",
+        "detail": "services.config",
+        "documentation": {}
+    },
+    {
+        "label": "HOST",
+        "kind": 5,
+        "importPath": "services.config",
+        "description": "services.config",
+        "peekOfCode": "HOST = 'localhost'\nPORT = '5432'\nDATABASE = 'reservation_chambre'",
+        "detail": "services.config",
+        "documentation": {}
+    },
+    {
+        "label": "PORT",
+        "kind": 5,
+        "importPath": "services.config",
+        "description": "services.config",
+        "peekOfCode": "PORT = '5432'\nDATABASE = 'reservation_chambre'",
+        "detail": "services.config",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASE",
+        "kind": 5,
+        "importPath": "services.config",
+        "description": "services.config",
+        "peekOfCode": "DATABASE = 'reservation_chambre'",
+        "detail": "services.config",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "kind": 2,
+        "importPath": "services.database_config",
+        "description": "services.database_config",
+        "peekOfCode": "def get_db():\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()",
+        "detail": "services.database_config",
+        "documentation": {}
+    },
+    {
+        "label": "SQLALCHEMY_DATABASE_URL",
+        "kind": 5,
+        "importPath": "services.database_config",
+        "description": "services.database_config",
+        "peekOfCode": "SQLALCHEMY_DATABASE_URL = f\"postgresql://{USER}:{PASSWORD}@{HOST}:{PORT}/{DATABASE}\"\nengine = create_engine(\n    SQLALCHEMY_DATABASE_URL\n)\nSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\nBase = declarative_base()\n# db utilities\ndef get_db():\n    db = SessionLocal()\n    try:",
+        "detail": "services.database_config",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "kind": 5,
+        "importPath": "services.database_config",
+        "description": "services.database_config",
+        "peekOfCode": "engine = create_engine(\n    SQLALCHEMY_DATABASE_URL\n)\nSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\nBase = declarative_base()\n# db utilities\ndef get_db():\n    db = SessionLocal()\n    try:\n        yield db",
+        "detail": "services.database_config",
+        "documentation": {}
+    },
+    {
+        "label": "SessionLocal",
+        "kind": 5,
+        "importPath": "services.database_config",
+        "description": "services.database_config",
+        "peekOfCode": "SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\nBase = declarative_base()\n# db utilities\ndef get_db():\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()",
+        "detail": "services.database_config",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "kind": 5,
+        "importPath": "services.database_config",
+        "description": "services.database_config",
+        "peekOfCode": "Base = declarative_base()\n# db utilities\ndef get_db():\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()",
+        "detail": "services.database_config",
+        "documentation": {}
+    },
+    {
+        "label": "BookingState",
+        "kind": 6,
+        "importPath": "services.models",
+        "description": "services.models",
+        "peekOfCode": "class BookingState(PyEnum):\n    free = 'free'   \n    pending = 'pending'\n    occupied = 'occupied' \n# customers classes\nclass Customers(Base):\n    __tablename__ = 'customers'\n    id_customer = Column(Integer, primary_key=True, nullable=False)\n    nom = Column(String, nullable=False)\n    prenoms = Column(String, nullable=True)",
+        "detail": "services.models",
+        "documentation": {}
+    },
+    {
+        "label": "Customers",
+        "kind": 6,
+        "importPath": "services.models",
+        "description": "services.models",
+        "peekOfCode": "class Customers(Base):\n    __tablename__ = 'customers'\n    id_customer = Column(Integer, primary_key=True, nullable=False)\n    nom = Column(String, nullable=False)\n    prenoms = Column(String, nullable=True)\n    cin = Column(String, nullable=False)\n    telephone = Column(String, nullable=False)\n    email = Column(String, nullable=True)\n    created_at = Column(DateTime, nullable=False, default=func.now())\n    updated_at = Column(DateTime, nullable=False, default=func.now())",
+        "detail": "services.models",
+        "documentation": {}
+    },
+    {
+        "label": "Rooms",
+        "kind": 6,
+        "importPath": "services.models",
+        "description": "services.models",
+        "peekOfCode": "class Rooms(Base):\n    __tablename__ = 'rooms'\n    id_room = Column(Integer, primary_key=True, nullable=False)\n    number = Column(String, nullable=False)\n    price_day = Column(Integer, nullable=False)\n    capacity = Column(Integer, nullable=False)\n    created_at = Column(DateTime, nullable=False, default=func.now())\n    updated_at = Column(DateTime, nullable=False, default=func.now())\n    booking = relationship('Bookings', back_populates='room')\n# booking class  ",
+        "detail": "services.models",
+        "documentation": {}
+    },
+    {
+        "label": "Bookings",
+        "kind": 6,
+        "importPath": "services.models",
+        "description": "services.models",
+        "peekOfCode": "class Bookings(Base):\n    __tablename__ = 'bookings'\n    id_booking = Column(Integer, primary_key=True, nullable=False)\n    date = Column(Date, nullable=False)\n    day_number = Column(Integer, nullable=False)\n    is_paid = Column(Boolean, nullable=False, default=False) \n    _id_customer = Column(Integer, ForeignKey('customers.id_customer'), nullable=False)\n    _id_room = Column(Integer, ForeignKey('rooms.id_room'), nullable=False)\n    created_at = Column(DateTime, nullable=False, default=func.now())\n    updated_at = Column(DateTime, nullable=False, default=func.now())",
+        "detail": "services.models",
+        "documentation": {}
+    },
+    {
+        "label": "Users",
+        "kind": 6,
+        "importPath": "services.models",
+        "description": "services.models",
+        "peekOfCode": "class Users(Base):\n    __tablename__ = 'users'\n    id_user = Column(Integer, primary_key=True, nullable=False)\n    email = Column(String, nullable=False)\n    password = Column(String, nullable=False)\n    role = Column(String, nullable=False, default='ROLE_USER') \n    created_at = Column(DateTime, nullable=False, default=func.now())\n    updated_at = Column(DateTime, nullable=False, default=func.now())",
+        "detail": "services.models",
+        "documentation": {}
+    },
+    {
+        "label": "CustomerSchema",
+        "kind": 6,
+        "importPath": "services.schemas",
+        "description": "services.schemas",
+        "peekOfCode": "class CustomerSchema(BaseModel):\n    nom: str\n    prenoms: str\n    cin: str\n    telephone: str\n    email: str\n    class Config:\n        orm_mode=True\n# schema for customers display\nclass CustomerSchemaView(CustomerSchema):",
+        "detail": "services.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "CustomerSchemaView",
+        "kind": 6,
+        "importPath": "services.schemas",
+        "description": "services.schemas",
+        "peekOfCode": "class CustomerSchemaView(CustomerSchema):\n    created_at: datetime\n    updated_at: datetime\n    id_customer: int\n    class Config:\n        from_attributs = True\n# schema for create or update of rooms\nclass RoomSchema(BaseModel):\n    number: str\n    price_day: int",
+        "detail": "services.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "RoomSchema",
+        "kind": 6,
+        "importPath": "services.schemas",
+        "description": "services.schemas",
+        "peekOfCode": "class RoomSchema(BaseModel):\n    number: str\n    price_day: int\n    capacity: int\n    class Config():\n        orm_mode = True\n# schema for customers display\nclass RoomSchemaView(RoomSchema):\n    created_at: datetime\n    updated_at: datetime",
+        "detail": "services.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "RoomSchemaView",
+        "kind": 6,
+        "importPath": "services.schemas",
+        "description": "services.schemas",
+        "peekOfCode": "class RoomSchemaView(RoomSchema):\n    created_at: datetime\n    updated_at: datetime\n    id_room: int\n    class Config:\n        from_attributs = True\n# schema for create or update of booking\nclass BookingSchema(BaseModel):\n    date: date\n    day_number: int",
+        "detail": "services.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "BookingSchema",
+        "kind": 6,
+        "importPath": "services.schemas",
+        "description": "services.schemas",
+        "peekOfCode": "class BookingSchema(BaseModel):\n    date: date\n    day_number: int\n    id_customer: int\n    id_room: int\n    is_paid: bool\n# schema for customers display\nclass BookingSchemaView(BookingSchema):\n    created_at: datetime\n    updated_at: datetime",
+        "detail": "services.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "BookingSchemaView",
+        "kind": 6,
+        "importPath": "services.schemas",
+        "description": "services.schemas",
+        "peekOfCode": "class BookingSchemaView(BookingSchema):\n    created_at: datetime\n    updated_at: datetime\n    id_booking: int\n    class Config:\n        from_attributs = True\nclass BookingView(BaseModel):\n    date: date\n    day_number: int\n    _id_customer: int",
+        "detail": "services.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "BookingView",
+        "kind": 6,
+        "importPath": "services.schemas",
+        "description": "services.schemas",
+        "peekOfCode": "class BookingView(BaseModel):\n    date: date\n    day_number: int\n    _id_customer: int\n    _id_room: int\n    is_paid: bool\n    created_at: datetime\n    updated_at: datetime\n    id_booking: int\n    customer: Optional[CustomerSchema]",
+        "detail": "services.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "UserSchema",
+        "kind": 6,
+        "importPath": "services.schemas",
+        "description": "services.schemas",
+        "peekOfCode": "class UserSchema(BaseModel):\n    email: str \n    password: str\n    role: str\n# schema for customers display\nclass UserSchemaView(UserSchema):\n    created_at: datetime\n    updated_at: datetime\n    id_user: int\n    class Config:",
+        "detail": "services.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "UserSchemaView",
+        "kind": 6,
+        "importPath": "services.schemas",
+        "description": "services.schemas",
+        "peekOfCode": "class UserSchemaView(UserSchema):\n    created_at: datetime\n    updated_at: datetime\n    id_user: int\n    class Config:\n        from_attributs = True\n# schema pour creer un user\nclass UserSchema(BaseModel):\n    nom: str\n    prenoms: Optional[str]",
+        "detail": "services.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "UserSchema",
+        "kind": 6,
+        "importPath": "services.schemas",
+        "description": "services.schemas",
+        "peekOfCode": "class UserSchema(BaseModel):\n    nom: str\n    prenoms: Optional[str]\n    email: str\n    password: str\n# schema pour token\nclass UserToken(BaseModel):\n    id_user: int\n    email: str\n    role: str",
+        "detail": "services.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "UserToken",
+        "kind": 6,
+        "importPath": "services.schemas",
+        "description": "services.schemas",
+        "peekOfCode": "class UserToken(BaseModel):\n    id_user: int\n    email: str\n    role: str\n    class Config:\n        from_attributs = True\n        orm_mode=True\n# schema pour login user\nclass UserLogin(BaseModel):\n    email: str",
+        "detail": "services.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "UserLogin",
+        "kind": 6,
+        "importPath": "services.schemas",
+        "description": "services.schemas",
+        "peekOfCode": "class UserLogin(BaseModel):\n    email: str\n    password: str\n    class Config:\n        orm_mode = True",
+        "detail": "services.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def home():\n    return {\n        \"message\": \"welcome to server\"\n    }\napp.include_router(user_router)\napp.include_router(booking_router)\napp.include_router(room_router)\napp.include_router(customer_router)\napp.include_router(data_router)",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "app = FastAPI()\napp.add_middleware(\n    CORSMiddleware,\n    allow_origins=[\"*\"],\n    allow_credentials=True,\n    allow_methods=[\"*\"],\n    allow_headers=[\"*\"],\n)\n@app.get('/home')\ndef home():",
+        "detail": "main",
+        "documentation": {}
+    }
+]
